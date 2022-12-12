@@ -1,7 +1,11 @@
 <a name="readme-top"></a>
 
 # Ethereal Shoes Shop
-https://etherealshoes.netlify.app/
+
+<a href="https://etherealshoes.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/SITE-282C34" alt="Site" margin="100px" height="35" />
+</a>
+&nbsp;
 
 <!-- TABLE OF CONTENTS -->
 <details>
