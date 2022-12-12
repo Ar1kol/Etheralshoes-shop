@@ -39,7 +39,7 @@ E-commerce app building uses Django - Python web framework and rest API framewor
 
 ### Pictures
 <div>
-<img src="images/Productspng.png" alt="Database structure diagram" width="50%" align="left">
+<img src="images/Products.png" alt="Database structure diagram" width="50%" align="left">
 <img src="images/Cart.png" alt="Database structure diagram" width="50%" align="right">
 <img src="images/login.png" alt="Database structure diagram" width="50%" align="left">
 <img src="images/payment.png" alt="Database structure diagram" width="50%" align="right">
