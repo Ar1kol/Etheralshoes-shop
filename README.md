@@ -3,7 +3,7 @@
 # Ethereal Shoes Shop
 
 <a href="https://etherealshoes.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/SITE-282C34" alt="Site" margin="100px" height="35" />
+<img src="https://img.shields.io/badge/Ethereal%20Shoes-282C34" alt="Site" margin="100px" height="35" />
 </a>
 &nbsp;
 
@@ -99,8 +99,8 @@ To get a local copy up and running follow this simple example step.
    ```
 
 ### SETUP
-
 _Below is an instructions on installing and setting up the app._
+
 Required installation for Backend
 1. Install Python latest version - https://www.python.org/
 2. Install Python Virtual Environment - https://docs.python.org/3/tutorial/venv.html
