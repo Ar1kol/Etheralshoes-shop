@@ -14,9 +14,6 @@ https://etherealshoes.netlify.app/
       <ul>
         <li><a href="#features">Features</a></li>
       </ul>
-      <ul>
-        <li><a href="#pictures">Pictures</a></li>
-      </ul>
     <li><a href="#roadmap">Roadmap</a>
       <ul>
         <li><a href="#built-with">Built with</a></li>
