@@ -1,11 +1,9 @@
 <a name="readme-top"></a>
 
-# Ethereal Shoes Shop
-
-<a href="https://etherealshoes.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/SITE-282C34" alt="Site" margin="100px" height="35" />
-</a>
-&nbsp;
+# Web3 project Krypt
+https://web3-krypt-project.netlify.app/
+<hr>
+<img src="images/web3.png" alt="web3 screen">
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -17,6 +15,9 @@
       </ul>
       <ul>
         <li><a href="#features">Features</a></li>
+      </ul>
+      <ul>
+        <li><a href="#pictures">Pictures</a></li>
       </ul>
     <li><a href="#roadmap">Roadmap</a>
       <ul>
@@ -34,19 +35,10 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 E-commerce app building uses Django - Python web framework and rest API framework for the development backend part. The front end is built on React using Redax to manage local data. Using Axios to send requests to the server and receive responses from the server. The app has a responsive design and user-friendly interface.The backend is deployed on Render and the frontend is on Netlify.
-
-### Pictures
-<div>
-<img src="images/Products.png" alt="Products page">
-<img src="images/Cart.png" alt="Cart page">
-<img src="images/login.png" alt="login page">
-<img src="images/payment.png" alt="payment page">
-</div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Features
 
@@ -62,10 +54,8 @@ E-commerce app building uses Django - Python web framework and rest API framewor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP-->
-## Roadmap
 
-### Built with
+## Built with
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo"/> </a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django logo"/> </a>&nbsp;
@@ -85,15 +75,6 @@ E-commerce app building uses Django - Python web framework and rest API framewor
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap logo"/> </a>&nbsp;
 
 
-### Database structure diagram
-
-<p align="center">
-  <img src="images/sqlSchema.jpg" alt="Database structure diagram">
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow this simple example step.
@@ -104,19 +85,13 @@ To get a local copy up and running follow this simple example step.
 ### SETUP
 
 _Below is an instructions on installing and setting up the app._
-Required installation for Backend
-1. Install Python latest version - https://www.python.org/
-2. Install Python Virtual Environment - https://docs.python.org/3/tutorial/venv.html
-   ```sh
-    pip install -r requirements.txt
-    python manage.py runserver
-   ```
-Required installation for Frontend
 1. Install Node.js latest version - https://nodejs.org/en/
    ```sh
     npm i
     npm start
    ```
-
+2. Download MetaMask wallet - https://metamask.io/
+3. Sign Up to GIPHY for using gifs - https://giphy.com/
+4. Create a new app in GIPHY
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
