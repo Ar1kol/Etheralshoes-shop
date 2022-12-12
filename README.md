@@ -38,10 +38,12 @@
 E-commerce app building uses Django - Python web framework and rest API framework for the development backend part. The front end is built on React using Redax to manage local data. Using Axios to send requests to the server and receive responses from the server. The app has a responsive design and user-friendly interface.The backend is deployed on Render and the frontend is on Netlify.
 
 ### Pictures
+<div>
 <img src="images/Productspng.png" alt="Database structure diagram" width="50%" align="left">
 <img src="images/Cart.png" alt="Database structure diagram" width="50%" align="right">
 <img src="images/login.png" alt="Database structure diagram" width="50%" align="left">
 <img src="images/payment.png" alt="Database structure diagram" width="50%" align="right">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Features
